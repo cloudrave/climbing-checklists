@@ -35,9 +35,7 @@ the second item on this checklist.
 
 ### At the Crag (or Gym)
 
-#### Anchor Building
-
-- Top Rope Anchor Setup
+#### [Anchor Building](https://github.com/cloudrave/climbing-checklists/blob/master/crag/anchors.md)
 
 #### Climbing
 
