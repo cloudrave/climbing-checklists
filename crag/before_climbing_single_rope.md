@@ -14,5 +14,3 @@
 - [ ] Belayer in **safe and effective position** to catch a hard fall.
 (Direction of pull and amount of slack should be considered.)
 - [ ] Body weight of climber and belayer **tested** on first bolt.
-
-## Trad Addendum
