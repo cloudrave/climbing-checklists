@@ -29,17 +29,17 @@ the second item on this checklist.
 
 # The Checklists
 
-## Before Leaving Home
+### Before Leaving Home
 
 - Gear Preparation and Inspection
 
-## At the Crag (or Gym)
+### At the Crag (or Gym)
 
 - Before Climbing with a Single Rope
     - Lead Addendum
     - Trad Addendum
 
-## Back at Home
+### Back at Home
 
 - Gear Storage
 
