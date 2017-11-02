@@ -42,7 +42,6 @@ the second item on this checklist.
 #### Climbing
 
 - [Before Climbing with a Single Rope](https://github.com/cloudrave/climbing-checklists/blob/master/crag/before_climbing_single_rope.md)
-    - Trad Addendum
 
 ### Back at Home
 
