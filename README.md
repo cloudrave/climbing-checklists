@@ -35,6 +35,12 @@ the second item on this checklist.
 
 ### At the Crag (or Gym)
 
+#### Anchor Building
+
+- Top Rope Anchor Setup
+
+#### Climbing
+
 - [Before Climbing with a Single Rope](https://github.com/cloudrave/climbing-checklists/blob/master/crag/before_climbing_single_rope.md)
     - Trad Addendum
 
