@@ -14,8 +14,7 @@ Ideally this list helps you reduce the liklihood that you will have a "bad day".
 
 # How to Use a Checklist
 
-Say, *for demonstration purposes only*, we have the following checklist entitled
-"Attitude Check":
+Say, *for demonstration purposes only*, we have the following checklist:
 
 - [ ] 1
 - [ ] 2
