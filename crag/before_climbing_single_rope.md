@@ -3,7 +3,7 @@
 - [ ] Stopper knot **tied** at end of rope.
 - [ ] Rope **flaked**.
 - [ ] (Top Rope Climbing Only) Top rope **secured** through anchor.
-(See [top rope anchoring](https://github.com/cloudrave/climbing-checklists/anchoring/top_rope.md) checklist.)
+(See [top rope anchoring](https://github.com/cloudrave/climbing-checklists/blob/master/crag/anchors.md) checklist.)
 - [ ] (Sport Climbing Only) First bolt **stick clipped**, *without back clip* and *in proper direction*.
 - [ ] Belay device **properly attached** to rope and to belayer.
     - [ ] **Verified by climber:**
