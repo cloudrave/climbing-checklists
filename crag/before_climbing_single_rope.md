@@ -1,4 +1,4 @@
-# Before Climbing with a Single Rope
+# Non-inclusive Before Climbing with a Single Rope Checklist
 
 - [ ] General safety considerations about area **reviewed**.
     - [ ] Other climbing parties appropriately **distanced**.
