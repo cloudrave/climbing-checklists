@@ -1,13 +1,13 @@
 # Anchors
 
-## Top Rope Anchors
+## Non-inclusive Top Rope Anchors Checklist
 
 - [ ] Anchor **ensured to be "SERENE"** or similar.
 - [ ] *Two* locking carabiners **are present** at the masterpoint.
 (Or at least one locking carabiner and one non-locking carabiner.)
 - [ ] Rope **has minimal abrasion potential**. (Extend anchor or protect rope if needed.)
 
-### Before detaching Personal Anchor System (PAS) (or equivalent)
+### Non-inclusive Before detaching Personal Anchor System (PAS) (or equivalent) Checklist
 
 - [ ] Next attachment to anchor **visually verified**.
     - [ ] **Next attachment double checked.** (Your partner is not there to verify.)
