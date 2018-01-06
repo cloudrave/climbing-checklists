@@ -8,7 +8,9 @@ Climbers may benefit from a similar methodology.
 # Important Disclaimer
 
 **Remember: These checklists do not represent *everything* that must be done to be safe.
-In fact, there is *no way to guarantee your safety while climbing*, as climbing is an
+They are *non-inclusive* of all best practices.**
+
+**In fact, there is *no way to guarantee your safety while climbing*, as climbing is an
 inherently dangerous sport. When you climb, you do so at your own risk of injury
 or death.**
 
