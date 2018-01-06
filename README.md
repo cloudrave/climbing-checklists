@@ -5,12 +5,16 @@ from negligence, and they are an invaluable tool in aviation.
 
 Climbers may benefit from a similar methodology.
 
+# Important Disclaimer
+
 **Remember: These checklists do not represent *everything* that must be done to be safe.
 In fact, there is *no way to guarantee your safety while climbing*, as climbing is an
 inherently dangerous sport. When you climb, you do so at your own risk of injury
 or death.**
 
-Ideally this list helps you reduce the liklihood that you will have a "bad day".
+Ideally this list helps you *reduce the liklihood* that you will have a "bad day".
+
+**There is no substitute for your own personal safety judgement. This list is just to externally *double-check that judgement.***
 
 # How to Use a Checklist
 
