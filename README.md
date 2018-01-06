@@ -29,9 +29,9 @@ the second item on this checklist.
 
 # The Checklists
 
-### Before Leaving Home
+### Before Heading Out
 
-- Gear Preparation and Inspection
+- [Gear Preparation and Inspection](https://github.com/cloudrave/climbing-checklists/blob/master/crag/gear_preparation.md)
 
 ### At the Crag (or Gym)
 
