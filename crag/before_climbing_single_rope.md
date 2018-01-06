@@ -2,7 +2,10 @@
 
 - [ ] General safety considerations about area **reviewed**.
     - [ ] Other climbing parties appropriately **distanced**.
-    - [ ] Bolts and rock of **known quality**.
+    - [ ] Bolts, rappel anchors, and rock of **known quality**.
+    - [ ] Location of bolts, rappel anchors, and route **known**.
+        - [ ] Verified by partner.
+    - [ ] Appropriate **Personal Protective Equipment worn** (e.g. helmet, safety glasses)
 - [ ] Stopper knot **tied** at end of rope.
 - [ ] Rope **flaked**.
 - [ ] (Top Rope Climbing Only) Top rope **secured** through anchor.
