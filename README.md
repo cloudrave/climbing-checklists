@@ -18,13 +18,13 @@ Say, *for demonstration purposes only*, we have the following checklist:
 
 - [ ] 1
 - [ ] 2
-    - [ ] Verified.
+    - [ ] Verified by partner.
 - [ ] 3
 
 Some things to know about checklists:
 
 - Order matters.
-- Some items should be cross-verified by the climbing partner, as indicated by the sub-item "Verified" for
+- Some items should be cross-verified by the climbing partner, as indicated by the sub-item "Verified by partner" for
 the second item on this checklist.
 
 # The Checklists
